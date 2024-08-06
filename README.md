@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @otodidak-developer-indonesia
+- 👀 I’m interested in web development & iot
+- 🌱 I’m currently learning nextjs
+- 😄 Pronouns: Bahasa Indonesia & English
